@@ -1,2 +1,2 @@
 email : qazqww@naver.com
-gitID : raptarior
+git ID : raptarior
